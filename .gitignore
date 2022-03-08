@@ -1,4 +1,6 @@
 .classpath
 .project
+stage
 /node_modules/
-
+node_modules/
+master
